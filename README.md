@@ -3,3 +3,4 @@
 * LLM2Features dir - generated features by the approach from the paper
 * actor_prompt.py - main prompt for feature generation
 * critic_prompt.py - LLM critic's prompt for correcting LLM actor errors
+* check_features_ast.py - A three-line example of checking the correctness of the generated code, not counting the LLM critic
